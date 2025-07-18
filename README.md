@@ -65,9 +65,10 @@ You must have:
 
 ### 🧪 Sample Rishta Profiles
 **The app uses a small internal dataset like:**
-{"name": "Ayesha", "age": 20, "gender": "female", "bio": "Designer, creative soul."}
-{"name": "Ubaid", "age": 25, "gender": "male", "bio": "Banker, family-oriented."}
-If no real matches are found, the agent intelligently generates suitable ones.
+
+- {"name": "Ayesha", "age": 20, "gender": "female", "bio": "Designer, creative soul."}
+- {"name": "Ubaid", "age": 25, "gender": "male", "bio": "Banker, family-oriented."}
+  *If no real matches are found, the agent intelligently generates suitable ones*.
 
 ---
 
@@ -77,7 +78,7 @@ If no real matches are found, the agent intelligently generates suitable ones.
 ---
 
 ### 📬 Contact
-For feedback or collaboration:
+**For feedback or collaboration:**
 📧 rahatbano142@gmail.com
 📱 WhatsApp Enabled via UltraMsg API
 
